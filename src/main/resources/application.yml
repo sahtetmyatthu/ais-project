@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+client-port:
+  port: 1280
+
+socket-server:
+  host: 0.0.0.0
+  port: 8062

@@ -1,0 +1,9 @@
+services:
+  ais-project:
+    image: "mrngasa/ais:s1"
+    container_name: ais-project
+    ports:
+      - "1280:1280"
+networks:
+  ais-network:
+    driver: "bridge"
