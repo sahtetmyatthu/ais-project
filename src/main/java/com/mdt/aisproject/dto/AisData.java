@@ -1,4 +1,4 @@
-package com.mdt.aisproject.model;
+package com.mdt.aisproject.dto;
 import lombok.Data;
 @Data
 public class AisData {

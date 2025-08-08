@@ -1,7 +1,7 @@
 package com.mdt.aisproject.service;
 
 import com.corundumstudio.socketio.SocketIOServer;
-import com.mdt.aisproject.model.AisData;
+import com.mdt.aisproject.dto.AisData;
 import dk.dma.ais.message.AisMessage;
 import dk.dma.ais.message.AisPositionMessage;
 import dk.dma.ais.sentence.Vdm;
